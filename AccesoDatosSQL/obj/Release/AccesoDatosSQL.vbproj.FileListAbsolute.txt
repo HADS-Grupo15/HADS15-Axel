@@ -1,0 +1,10 @@
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\bin\Release\AccesoDatosSQL.dll
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\bin\Release\AccesoDatosSQL.pdb
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\bin\Release\AccesoDatosSQL.xml
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\obj\Release\AccesoDatosSQL.vbprojResolveAssemblyReference.cache
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\obj\Release\AccesoDatosSQL.Resources.resources
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\obj\Release\AccesoDatosSQL.vbproj.GenerateResource.Cache
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\obj\Release\AccesoDatosSQL.vbproj.CoreCompileInputs.cache
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\obj\Release\AccesoDatosSQL.dll
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\obj\Release\AccesoDatosSQL.xml
+E:\Win_Archivos\Documentos\Visual Studio 2017\source\repos\Proyecto\AccesoDatosSQL\obj\Release\AccesoDatosSQL.pdb
